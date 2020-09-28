@@ -1,0 +1,23 @@
+{
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx",
+    "xml": {
+        "attr_quotes": "single"
+    }
+    },
+    
+   "emmet.includeLanguages": {
+      "html": "html",
+      "javascript": "javascriptreact",
+      
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": { ".js": "javascriptreact" }
+}
+   
